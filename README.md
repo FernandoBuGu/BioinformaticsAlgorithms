@@ -12,3 +12,5 @@ HMM.py: Profile Hidden Markov Model for multiple sequence alignment
 Indexing.R: SSAHA algorithm for fast serach in DNA databases
 
 Reveal: REVEAL (REVerse Engineering ALgorithm) algorithm for gene network inference
+
+SSAHA: Indexing to find high-scoring short local alignments
